@@ -1,5 +1,5 @@
 
-# 🏡Roamio – Seamless Vacation & Stay Rentals
+# 🏡 Heavenly – Seamless Vacation & Stay Rentals
 
 **Havenly** is a modern, full-stack web platform that connects travelers with unique places to stay. Designed with user experience, security, and reliability in mind, it allows hosts to list properties and guests to find their perfect getaway—all in one place.
 
@@ -27,10 +27,9 @@
 ## 🧰 Tech Stack
 
 ### Frontend
-- **React.js** – Component-based UI
-- **Tailwind CSS** – Modern, utility-first styling
-- **Axios** – API requests
-- **Map API** – Interactive geographic map integration
+- **Html*
+- **CSS**
+- **Bootstrap**
 
 ### Backend
 - **Node.js** – JavaScript runtime
